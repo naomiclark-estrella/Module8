@@ -1,3 +1,12 @@
+"""
+ Naomi Clark
+ Module 08 Lab Assignment
+ Part B
+ 
+ This program creates a task class for a to-do list application and a createTask() function that creates and adds tasks to a to-do list.
+ """
+
+
 class Task:
     def __init__(self, task_name, completion):
         self.task_name = task_name
