@@ -4,7 +4,9 @@ ToDo List is a python code for creating a to do list.
 
 ## Usage
 
-ToDo List is used to create and add to a to-do list.
+ToDo List is used to create and add to a to-do list. Simple enter in command line:
+
+    python todo_list.py
 
 1. You will be prompted to enter whether you will like to add a task to your to-do list.
 
